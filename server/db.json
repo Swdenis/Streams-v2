@@ -1,29 +1,5 @@
 {
   "streams": [
-    {
-      "title": "Stream",
-      "description": "Cool stream",
-      "id": 1
-    },
-    {
-      "title": "Stream2",
-      "description": "Cool stream2",
-      "id": 2
-    },
-    {
-      "title": "Test",
-      "description": "Test",
-      "id": 3
-    },
-    {
-      "title": "Me streaming comp reuse PATCH1",
-      "description": "Refactor b",
-      "id": 4
-    },
-    {
-      "title": "TestChange",
-      "description": "test1Change",
-      "id": 5
-    }
+  
   ]
 }
