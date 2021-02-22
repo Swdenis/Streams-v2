@@ -2,7 +2,7 @@ import React from 'react';
 import {connect} from 'react-redux';
 import {signIn, signOut} from '../actions';
 
-const _clientId = '765325676687-c4hr9f0kd1kdokv99iv2fsf5422gqpe9.apps.googleusercontent.com'
+const _clientId = ///google id
 class GoogleAuth extends React.Component {
 
   componentDidMount() {
